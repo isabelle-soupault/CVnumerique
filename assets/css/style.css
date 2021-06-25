@@ -134,11 +134,11 @@ body{
         -webkit-text-fill-color: transparent;
     }
 
-    #apron .card, #risk .card, #payPass .card{
+    /*#apron .card, #risk .card, #payPass .card{
         width: 30%;
         margin-left : 3%;
         margin-top :2vh;
-    }
+    }*/
 
     img{
         box-shadow: 10px 5px 5px rgba(0, 128, 128, 0.35);
